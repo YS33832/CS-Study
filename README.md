@@ -19,5 +19,3 @@
 ## 참고 사이트
 - 백엔드갤러리 - https://gall.dcinside.com/mgallery/board/view/?id=backend&no=113
 - 노션 - https://www.notion.so/44da2a336b864d35bd642bc62a300708
-- 
-
